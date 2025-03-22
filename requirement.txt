@@ -1,0 +1,14 @@
+streamlit
+requests
+python-dotenv
+PyPDF2
+tiktoken
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-text-splitters
+youtube-transcript-api
+validators
+beautifulsoup4
+urllib3
