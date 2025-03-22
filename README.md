@@ -29,7 +29,7 @@ The app allows users to:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Document-Summarizer.git
+git clone https://github.com/yuvraj1898/AISummarizer.git
 cd AI-Document-Summarizer
 ```
 ```bash
