@@ -1,5 +1,5 @@
 # 📄 AI-Powered Summarizer (PDF, YouTube & Web URLs)
-
+### App Link:https://aisummarizer-mznte74r5wosv7oawkktfk.streamlit.app/
 This is a **Streamlit-based AI-powered summarizer** that can extract and summarize content from:
 - **PDF files**
 - **YouTube videos (Transcripts)**
