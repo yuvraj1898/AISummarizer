@@ -87,3 +87,5 @@ Click ♻️ Rephrase Summary if not satisfied.
 
 Download the summary using 📥 Download Summary as .txt.
 
+Update Via API
+
